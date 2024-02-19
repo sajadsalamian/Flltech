@@ -1,8 +1,5 @@
-# React + Vite
+# React + Vite + TawilwindCSS + Shadcn 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+این ریپازیتوری مربوط به ایمیل فرستاده شده است.
+پیاده سازی با فریم ورک "ری اکت" و از کتابخانه تیلویند و شد سی ان استفاده شده است.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
