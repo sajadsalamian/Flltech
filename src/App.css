@@ -1,0 +1,17 @@
+
+:root {
+  --side-bg: #131517;
+  --side-border: #1d1f20;
+}
+
+html {
+  background: white;
+}
+
+body {
+  background: white;
+}
+
+.hover\:underline:hover {
+  text-decoration-line: none;
+}
